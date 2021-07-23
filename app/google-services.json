@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "389624425062",
+    "firebase_url": "https://hrentauth-default-rtdb.firebaseio.com",
+    "project_id": "hrentauth",
+    "storage_bucket": "hrentauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389624425062:android:dc0ab2c29a664ff8b09ba7",
+        "android_client_info": {
+          "package_name": "com.myspeec.hrentauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389624425062-epolkaciocdq2hi4q2p62alhh3rlrjf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUHLWpPURtFkwaBTMhNX_ZecZyytCJySQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389624425062-epolkaciocdq2hi4q2p62alhh3rlrjf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
